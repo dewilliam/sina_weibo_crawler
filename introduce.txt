@@ -1,0 +1,4 @@
+This project contains three python files.
+The first one "people_spider.py",it's function is to get user account of sina weibo and store these in MySQL.
+The second one "weibo_spider.py",it's function is to get weibo data sended by users from step one and store these data in MySQL.
+The last one "time_analy.py",it's function is to analy the time users tend to send their weibo,and produce a grapy.
